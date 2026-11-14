@@ -10,5 +10,6 @@ How The Dataset Was Created
 4. Generated random Attendance Percentage between 50 and 100
 5. Generated random Average Examination Score between 75 and 100
 Saved the final data as a CSV file
+
 Conclusion: The fictional student dataset was created using python.
 
