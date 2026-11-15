@@ -15,17 +15,31 @@ students = [
     },
     {
         "student_id": "24/15103",
-        "department": "Computer Science",
+        "department": "Software Engineering",
         "level": 300,
         "attendance_percentage": 75.0,
         "avg_exam_score": 65.0,
     },
     {
         "student_id": "24/14012",
-        "department": "Computer Science",
+        "department": "Software Engineering",
         "level": 300,
         "attendance_percentage": 95.0,
         "avg_exam_score": 91.5,
+    },
+     {
+        "student_id": "25/13401",
+        "department": "Cyber Security",
+        "level": 200,
+        "attendance_percentage": 77.0,
+        "avg_exam_score": 91.0,
+    },
+     {
+        "student_id": "25/12209",
+        "department": "Cyber Security",
+        "level": 200,
+        "attendance_percentage": 70.0,
+        "avg_exam_score": 88.0,
     },
 ]
 
