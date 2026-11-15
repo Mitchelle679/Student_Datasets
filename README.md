@@ -4,11 +4,11 @@ The dataset is fictional and was created for academic purposes only. No real stu
 Programming Language: [Python]
 Editor: [e.g. Google Colab / VS Code] 
 How The Dataset Was Created
-1. Generated random Student IDs from 24/13512 to 24/14012
-2. Assigned same Departments
-3. Assigned just 300 Levels
-4. Generated random Attendance Percentage between 50 and 100
-5. Generated random Average Examination Score between 75 and 100
+1. Generated random Student IDs from 25/12209 to 24/15103
+2. Assigned random Departments
+3. Assigned [200 - 300] Levels
+4. Generated random Attendance Percentage between 70 and 95
+5. Generated random Average Examination Score between 65 and 100
 Saved the final data as a CSV file
 
 Conclusion: The fictional student dataset was created using python.
