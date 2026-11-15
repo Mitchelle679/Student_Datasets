@@ -1,5 +1,7 @@
 Student_ID,Department,Level,Attendance%,Avg Exam Score
 24/13512,Computer Science,300,88.5,76.4
 24/14005,Computer Science,300,92.0,84.2
-24/15103,Computer Science,300,75.0,65.0
-24/14012,Computer Science,300,95.0,91.5
+24/15103,Software Engineering,300,75.0,65.0
+24/14012,Software Engineering,300,95.0,91.5
+25/13401,Cyber Security,200,77.0,91.0
+25/12209,Cyber Security,200,70.0,88.0
